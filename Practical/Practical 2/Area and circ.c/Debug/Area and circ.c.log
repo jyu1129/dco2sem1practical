@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Area and circ.c.vcxproj, Practical.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  P2Q5.c
+  P2Q4.c
+f:\practical\project2\p2q4.c(15): warning C4013: 'gets' undefined; assuming extern returning int
+  Generating Code...
+  Area and circ.c.vcxproj -> F:\Practical\Debug\Practical 2.exe
