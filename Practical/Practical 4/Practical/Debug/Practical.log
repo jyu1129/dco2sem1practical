@@ -1,0 +1,4 @@
+﻿  P4Q10.c
+c:\users\taruc\desktop\practical 4\practical\p4q10.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\practical 4\practical\p4q10.c(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Practical.vcxproj -> C:\Users\TARUC\Desktop\Practical 4\Debug\Practical 4.exe

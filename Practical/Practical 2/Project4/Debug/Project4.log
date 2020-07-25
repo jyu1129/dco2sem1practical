@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\taruc\source\repos\project1\project4\source.c(11): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\taruc\source\repos\project1\project4\source.c(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\taruc\source\repos\project1\project4\source.c(8): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'double *'
+c:\users\taruc\source\repos\project1\project4\source.c(9): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'float *'
+  Project4.vcxproj -> C:\Users\TARUC\source\repos\Project1\Debug\Project4.exe
