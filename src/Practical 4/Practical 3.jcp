@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Practical 4</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_144</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="Student"/>
+		<item run="P4Q1"/>
+		<item run="Students"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>P4Q1</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\CakeType.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Car.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\CarType.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Course.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Employee.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Owner.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P4Q1.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P4Q2.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P4Q3.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P4Q4.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P4Q5.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P4Q6.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Registration.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Students.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

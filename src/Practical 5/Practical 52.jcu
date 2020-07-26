@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Practical 6</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Practical 5</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>Practical 6</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Practical 6\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>Practical 6\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Q5.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Practical 6\src\CurrentAccount.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Practical 6\src\SavingsAccount.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Practical 6\src\Account.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Practical 5</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>P5Q1</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\P5Q1.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P5Q2.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P5Q3.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\P5Q4.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Q5.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Student.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
